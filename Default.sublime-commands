@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Copy Relative File Path",
+        "command": "copy_relative_file_path"
+    }
+]
