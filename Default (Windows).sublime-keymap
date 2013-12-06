@@ -1,3 +1,4 @@
 [
-  { "keys": ["ctrl+shift+c"], "command": "copy_relative_file_path" }
+  { "keys": ["ctrl+shift+c"], "command": "copy_relative_file_path" },
+  { "keys": ["ctrl+shift+l"], "command": "copy_stash_link_to_file_line"}
 ]

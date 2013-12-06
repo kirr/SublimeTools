@@ -1,4 +1,5 @@
 [
   { "keys": ["super+shift+c"], "command": "copy_relative_file_path" },
-  { "keys": ["super+shift+z"], "command": "copy_debugger_break" }
+  { "keys": ["super+shift+z"], "command": "copy_debugger_break" },
+  { "keys": ["super+shift+l"], "command": "copy_stash_link_to_file_line"}
 ]

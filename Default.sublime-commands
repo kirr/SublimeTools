@@ -6,5 +6,9 @@
     {
         "caption": "Copy LLDB breakpoint",
         "command": "copy_debugger_break"
+    },
+    {
+        "caption": "Copy Stash Link To File Line",
+        "command": "copy_stash_link_to_file_line"
     }
 ]
